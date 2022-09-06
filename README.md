@@ -14,9 +14,24 @@
     alt="sw33zy" 
     bg_color=#808080/></p>
 
+
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sw33zy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&count_private=true"
     alt="sw33zy" /></p>
 
 <br>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sw33zy&label=Profile%20views&color=0e75b6&style=flat"
+    alt="sw33zy" /> 
+  </p>
+
+<br>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sw33zy&label=Profile%20views&color=0e75b6&style=flat"
+    alt="sw33zy" /> 
+  </p>
+
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9.svg)](https://wakatime.com/@0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9)
