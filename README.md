@@ -4,6 +4,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sw33zy" /></p>
  
 <br>
+
 - 🌱 I’m currently starting my thesis!
 
 - 📫 How to reach me **leonardomarreiros00@gmail.com**
