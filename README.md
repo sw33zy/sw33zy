@@ -3,6 +3,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sw33zy" /></p>
  
+<br>
 
 - 📫 How to reach me **leonardomarreiros00@gmail.com**
 
@@ -22,10 +23,8 @@
 
 <br>
 
+[![wakatime](https://wakatime.com/badge/user/0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9.svg)](https://wakatime.com/@0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9)
+
 <p> <img src="https://komarev.com/ghpvc/?username=sw33zy&label=Profile%20views&color=0e75b6&style=flat"
     alt="sw33zy" /> 
   </p>
-
-<br>
-
-[![wakatime](https://wakatime.com/badge/user/0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9.svg)](https://wakatime.com/@0ed1e4aa-5ba6-418c-93af-ceff88c1a0c9)
