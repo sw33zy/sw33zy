@@ -4,10 +4,22 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="sw33zy" /></p>
  
 <br>
+- 🌱 I’m currently starting my thesis!
 
 - 📫 How to reach me **leonardomarreiros00@gmail.com**
 
-- ⚡ About me :- Interested in fitness and financial literacy.
+- ⚡ About me :- Interested in Fitness and Financial Literacy.
+
+## 💻 Programming skills
+
+- Java
+- C
+- Python
+- Javascript
+- HTML / CSS
+- MySQL / PostgreSQL
+- Bash
+- React/Vue
 
 <h3>Statistical Data :-</h3>
 <p  align="left"><img align="center"
