@@ -24,7 +24,7 @@
 
 <br>
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Statistical Data
 
 <p  align="left"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sw33zy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&exclude_repo=SA,AP_&langs_count=6"
