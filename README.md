@@ -19,11 +19,11 @@
 - HTML / CSS
 - MySQL / PostgreSQL
 - Bash
-- React/Vue
+- React / Vue
 
 <h3>Statistical Data :-</h3>
 <p  align="left"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sw33zy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&exclude_repo=AP,AP_,DAA-Project&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sw33zy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&exclude_repo=AP,AP_,DAA-Project,SA&langs_count=6"
     alt="sw33zy" 
     bg_color=#808080/></p>
 
